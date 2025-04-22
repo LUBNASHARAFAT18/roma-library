@@ -1,0 +1,75 @@
+[
+  {
+    "title":"pyhton creash course",
+    "author": "Eric Matthes",
+    "publication_year": 2019,
+    "genre":"programming",
+    "read_status": false,
+    "added_data": "2025-4-21 3:08:40
+  },
+  {"title":
+    "author": 
+    "publication_year": 
+    "genre":
+    "read_status": 
+    "added_data": 
+  }
+  [
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "publication_year": 1960,
+    "genre": "Classic Fiction",
+    "read_status": "Read",
+    "added_date": "2025-04-22"
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "publication_year": 1949,
+    "genre": "Dystopian",
+    "read_status": "Unread",
+    "added_date": "2025-04-22"
+  },
+  {
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "publication_year": 2011,
+    "genre": "Non-fiction",
+    "read_status": "Read",
+    "added_date": "2025-04-22"
+  },
+  {
+    "title": "The Subtle Art of Not Giving a F*ck",
+    "author": "Mark Manson",
+    "publication_year": 2016,
+    "genre": "Self-help",
+    "read_status": "Unread",
+    "added_date": "2025-04-22"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "publication_year": 1813,
+    "genre": "Romance",
+    "read_status": "Read",
+    "added_date": "2025-04-22"
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "publication_year": 1937,
+    "genre": "Fantasy",
+    "read_status": "Unread",
+    "added_date": "2025-04-22"
+  },
+  {
+    "title": "Rich Dad Poor Dad",
+    "author": "Robert Kiyosaki",
+    "publication_year": 1997,
+    "genre": "Finance",
+    "read_status": "Read",
+    "added_date": "2025-04-22"
+  }
+]
+
